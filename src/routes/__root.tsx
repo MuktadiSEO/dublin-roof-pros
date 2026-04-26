@@ -32,11 +32,15 @@ export const Route = createRootRoute({
       { title: "Expert Roof Chimney & Gutters | Dublin Roofing Experts" },
       { name: "description", content: "Dublin's 24/7 roofing, chimney and gutter specialists." },
       { name: "author", content: "Expert Roof Chimney & Gutters" },
-      { property: "og:title", content: "Expert Roof Chimney & Gutters | Dublin" },
+      { property: "og:title", content: "Expert Roof Chimney & Gutters | Dublin Roofing Experts" },
       { property: "og:description", content: "Dublin's 24/7 roofing, chimney and gutter specialists." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Expert Roof Chimney & Gutters | Dublin Roofing Experts" },
+      { name: "twitter:description", content: "Dublin's 24/7 roofing, chimney and gutter specialists." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/0d04ac29-64e4-44a1-9dcf-4f40feeb45ed/id-preview-c859da89--7e51468d-7ca7-4612-b856-5138166e4957.lovable.app-1777230003347.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/0d04ac29-64e4-44a1-9dcf-4f40feeb45ed/id-preview-c859da89--7e51468d-7ca7-4612-b856-5138166e4957.lovable.app-1777230003347.png" },
     ],
     links: [
       {
